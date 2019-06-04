@@ -1,6 +1,6 @@
 # spookysort
 
-An image mnaipulation filter with spooky results
+An image manipulation filter with spooky results
   
 ![source](https://raw.githubusercontent.com/dalhuijsen/spookysort/master/source.jpg)
 
