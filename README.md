@@ -1,9 +1,12 @@
 # spookysort
 
 An image manipulation filter with spooky results
-  
-![source](https://raw.githubusercontent.com/dalhuijsen/spookysort/master/source.jpg)
-
+ 
+ eg creates this:
 
 ![result](https://raw.githubusercontent.com/dalhuijsen/spookysort/master/result.png)
+
+ from this:
+
+![source](https://raw.githubusercontent.com/dalhuijsen/spookysort/master/source.jpg)
 
